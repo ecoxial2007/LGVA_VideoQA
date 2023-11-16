@@ -36,9 +36,9 @@ Please refer to `./tools/extract_embedding.py`
 
 | dataset    | frame | bbox | caption | question&answer |
 |------------|-------|------|---------|-----------------|
-| NExT-QA |	[BaiduDisk](https://pan.baidu.com/s/1bohs6bSH2tLyOXDqvOTxQw?pwd=6666) |	uploading |	uploading |	[BaiduDisk](https://pan.baidu.com/s/11k6ZuVE6vmWtkOX9g9xMaA?pwd=6666)	|
-| MSVD    |	uploading |	uploading |	[BaiduDisk](https://pan.baidu.com/s/1oYGIiFIwyZWOeL1RJvb6-g?pwd=6666) |	[BaiduDisk](https://pan.baidu.com/s/14FCF7DKb_fRiGx78s3rFIA?pwd=6666)	|
-| MSRVTT  |	uploading |	uploading |	uploading |	uploading |	uploading |
+| NExT-QA |	[BaiduDisk](https://pan.baidu.com/s/1bohs6bSH2tLyOXDqvOTxQw?pwd=6666) |	[BaiduDisk](https://pan.baidu.com/s/1AqScqHqX4ia9YuYagrkrqQ?pwd=6666) |	[BaiduDisk](https://pan.baidu.com/s/1ClvJD6f6bFzgfpGoURgo9w?pwd=6666) |	[BaiduDisk](https://pan.baidu.com/s/1rbs20DAd2xJc-dvVGwKB7Q?pwd=6666)	|
+| MSVD    |	[BaiduDisk](https://pan.baidu.com/s/1bUvAWJgx1_ord56JhFN7UA?pwd=6666) |	[BaiduDisk](https://pan.baidu.com/s/19yDvZEgbwH9Ji_HZVQD6Kw?pwd=6666) |	[BaiduDisk](https://pan.baidu.com/s/1oYGIiFIwyZWOeL1RJvb6-g?pwd=6666) |	[BaiduDisk](https://pan.baidu.com/s/16pGXcdWJugcHo3wTQadOFA?pwd=6666)	|
+| MSRVTT  |	[BaiduDisk](https://pan.baidu.com/s/1NfAUc9BngXJELgc-XMgg8g?pwd=6666) |	[BaiduDisk](https://pan.baidu.com/s/18Pa18MVA0FLYAoXXnxXEdg?pwd=6666) |	[BaiduDisk](https://pan.baidu.com/s/1gYvMCNeLMUQ3PzZrva1cDg?pwd=6666) |	uploading |
 
 Due to the large number of videos in TGIF and ActivityNet, we do not plan to upload the features. You can process the original videos using a simple feature extraction script. Similarly, extracting text features (such as questions and answers) does not take much time, and you can extract them on your own based on the json files.
 
